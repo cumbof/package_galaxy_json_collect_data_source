@@ -18,7 +18,7 @@ setup(
 
     install_requires = [],
     packages=find_packages(),
-    license = "MIT",
+    license = "BSD",
     classifiers=[
         "Development Status :: Stable",
         "Topic :: Utilities",
